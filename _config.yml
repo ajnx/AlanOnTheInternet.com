@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until next variable
 #url: https://ajnx.github.io
 #baseurl: /blog-test-new/
 
-domain: effulgent-blancmange-e61e4d.netlify.app
-url: https://effulgent-blancmange-e61e4d.netlify.app
+domain: ajnx.github.io
+url: https://ajnx.github.io/AlanOnTheInternet.com/
 baseurl: /
 
 permalink: /:title/
