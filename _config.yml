@@ -27,8 +27,8 @@ description: >- # this means to ignore newlines until next variable
 #baseurl: /blog-test-new/
 
 domain: ajnx.github.io
-url: https://ajnx.github.io/AlanOnTheInternet.com/
-baseurl: /
+url: https://ajnx.github.io
+baseurl: /AlanOnTheInternet.com/
 
 permalink: /:title/
 
