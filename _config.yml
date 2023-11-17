@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog Test New
+title: Alan On The Internet
 description: >- # this means to ignore newlines until next variable
-  A blog test. Uses Jekyll. Served with GitHub Pages.
+  The personal blog of Alan Nightingale.
 
 #domain: ajnx.github.io
 #url: https://ajnx.github.io
 #baseurl: /blog-test-new/
 
-domain: ajnx.github.io
-url: https://ajnx.github.io
-baseurl: /AlanOnTheInternet.com/
+domain: alanontheinternet.netlify.app
+url: https://alanontheinternet.netlify.app
+baseurl: /
 
 permalink: /:title/
 
