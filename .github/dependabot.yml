@@ -1,0 +1,15 @@
+version: 2
+updates:
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "12:00"
+      timezone: "America/Chicago"
+    groups:
+      bundler-security:
+        applies-to: security-updates
+        patterns: ["*"]
+      bundler-all:
+        applies-to: version-updates
+        patterns: ["*"]
